@@ -1,0 +1,27 @@
+* {
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+h1, form {
+    text-align: center;
+}
+
+h1, button {
+    font-weight: bold;
+}
+
+ul li {
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
